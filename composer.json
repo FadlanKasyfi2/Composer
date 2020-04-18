@@ -1,0 +1,15 @@
+{
+    "name": "starbhak/belajar-composer",
+    "description": "Untuk Kebutuh Belajar Composer",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Fadlan Kasyfi",
+            "email": "fadlankasyfi86@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.5"
+    }
+}
